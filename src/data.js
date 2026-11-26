@@ -1,8 +1,8 @@
 import Papa from 'papaparse'
-import competitorsCsv from '../data/competitors.csv?raw'
-import roundsCsv from '../data/rounds.csv?raw'
-import submissionsCsv from '../data/submissions.csv?raw'
-import votesCsv from '../data/votes.csv?raw'
+import competitorsCsv from '../data/5/competitors.csv?raw'
+import roundsCsv from '../data/5/rounds.csv?raw'
+import submissionsCsv from '../data/5/submissions.csv?raw'
+import votesCsv from '../data/5/votes.csv?raw'
 
 const parse = (csv) => Papa.parse(csv, { header: true, skipEmptyLines: true }).data
 
