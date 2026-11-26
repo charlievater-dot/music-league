@@ -36,5 +36,10 @@ export function getRound(roundNumber) {
     }))
     .sort((a, b) => b.votes - a.votes)
 
+  // Tied songs share a rank: 18, 17, 15, 15, 14 -> 1, 2, 3, 3, 5
+  songs.forEach((song, i) => {
+    song.rank = i > 0 && song.votes === songs[i - 1].votes ? songs[i - 1].rank : i + 1
+  })
+
   return { name: round.Name.trim(), songs }
 }

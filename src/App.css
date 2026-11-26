@@ -1,12 +1,51 @@
+@import '@fontsource-variable/instrument-sans';
+
 :root {
   color-scheme: light dark;
-  font-family: system-ui, sans-serif;
+  --text: light-dark(#1c1c1e, #ececec);
+  --muted: light-dark(#6e6e73, #98989d);
+  --line: light-dark(#e5e5ea, #2c2c2e);
+  --bg: light-dark(#fbfbfa, #141414);
+  --hover: light-dark(#f2f2f0, #1d1d1f);
+
+  --gold: light-dark(#b8860b, #e0b23c);
+  --silver: light-dark(#8a8f98, #b4b9c0);
+  --bronze: light-dark(#a0582a, #cd8a5a);
+
+  font-family: 'Instrument Sans Variable', system-ui, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
 }
 
 main {
-  max-width: 960px;
+  max-width: 1080px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 3rem 1.25rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.25rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
 /* Lets the table scroll sideways on narrow screens */
@@ -16,17 +55,89 @@ main {
 
 table {
   width: 100%;
+  min-width: 760px;
+  table-layout: fixed; /* text columns share the leftover width equally */
   border-collapse: collapse;
+  font-size: 0.9375rem;
+}
+
+.col-rank {
+  width: 3.5rem;
+}
+
+.col-votes {
+  width: 5rem;
 }
 
 th,
 td {
-  padding: 0.5rem 0.75rem;
-  border-bottom: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+  padding: 0.75rem;
   text-align: left;
+  border-bottom: 1px solid var(--line);
+  /* Long names are cut off with "…"; hover shows the full text */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+th {
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+tbody tr:hover {
+  background: var(--hover);
+}
+
+td {
+  color: var(--muted);
+}
+
+td.title {
+  color: var(--text);
+  font-weight: 500;
 }
 
 .number {
   text-align: right;
   font-variant-numeric: tabular-nums;
+}
+
+.votes {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.rank {
+  display: inline-block;
+  min-width: 1.75rem;
+  text-align: center;
+}
+
+/* Top three: a coloured rank badge and vote count */
+.gold {
+  --medal: var(--gold);
+}
+
+.silver {
+  --medal: var(--silver);
+}
+
+.bronze {
+  --medal: var(--bronze);
+}
+
+:is(.gold, .silver, .bronze) .rank {
+  padding: 0.125rem 0;
+  border-radius: 999px;
+  font-weight: 600;
+  color: var(--medal);
+  background: color-mix(in srgb, var(--medal) 14%, transparent);
+}
+
+:is(.gold, .silver, .bronze) .votes {
+  color: var(--medal);
 }

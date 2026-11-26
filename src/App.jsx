@@ -3,16 +3,28 @@ import { getRound } from './data.js'
 import './App.css'
 
 const round = getRound(7)
+const medals = { 1: 'gold', 2: 'silver', 3: 'bronze' }
 
 function Home() {
   return (
     <main>
-      <h1>Music League</h1>
-      <h2>Round 7: {round.name}</h2>
+      <header>
+        <p className="eyebrow">Round 7</p>
+        <h1>{round.name}</h1>
+      </header>
       <div className="table-wrapper">
         <table>
+          <colgroup>
+            <col className="col-rank" />
+            <col />
+            <col />
+            <col />
+            <col />
+            <col className="col-votes" />
+          </colgroup>
           <thead>
             <tr>
+              <th className="number">#</th>
               <th>Song</th>
               <th>Artist</th>
               <th>Album</th>
@@ -22,12 +34,15 @@ function Home() {
           </thead>
           <tbody>
             {round.songs.map((song) => (
-              <tr key={song.uri}>
-                <td>{song.title}</td>
-                <td>{song.artist}</td>
-                <td>{song.album}</td>
-                <td>{song.submitter}</td>
-                <td className="number">{song.votes}</td>
+              <tr key={song.uri} className={medals[song.rank]}>
+                <td className="number">
+                  <span className="rank">{song.rank}</span>
+                </td>
+                <td className="title" title={song.title}>{song.title}</td>
+                <td title={song.artist}>{song.artist}</td>
+                <td title={song.album}>{song.album}</td>
+                <td title={song.submitter}>{song.submitter}</td>
+                <td className="number votes">{song.votes}</td>
               </tr>
             ))}
           </tbody>
