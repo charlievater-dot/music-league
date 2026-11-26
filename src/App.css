@@ -141,3 +141,45 @@ td.title {
 :is(.gold, .silver, .bronze) .votes {
   color: var(--medal);
 }
+
+/* Page header extras */
+.description {
+  margin: 0.5rem 0 0;
+  max-width: 60ch;
+  color: var(--muted);
+  white-space: pre-line; /* keeps line breaks from the export */
+}
+
+/* Links look like the surrounding text until hovered */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+th a {
+  display: block;
+}
+
+th a:hover {
+  color: var(--text);
+}
+
+/* Column widths for the People and Song tables */
+.col-name {
+  width: 12rem;
+}
+
+.col-season {
+  width: 6rem;
+}
+
+/* Comments wrap instead of being cut off */
+td.comment {
+  white-space: normal;
+  color: var(--text);
+}

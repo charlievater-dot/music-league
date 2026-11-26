@@ -162,5 +162,11 @@ const peopleTable = [...people.values()]
   })
   .sort((a, b) => b.total - a.total)
 
+// Tied people share a rank, like songs
+peopleTable.forEach((person, i) => {
+  const prev = peopleTable[i - 1]
+  person.rank = prev && person.total === prev.total ? prev.rank : i + 1
+})
+
 writeJson(path.join(outDir, 'people.json'), peopleTable)
 console.log(`People: ${peopleTable.length}`)
