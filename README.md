@@ -15,8 +15,7 @@ A website for presenting Music League data in many formats. Example features
 ## Data Flow
 
 1. After each round, export the results from Music League.
-2. A script parses the export and converts it into the site's data format.
-3. The site reads that data and renders it (results, rankings, song history).
+2. The site reads that data and renders it (results, rankings, song history).
 
 Data is updated manually per round — there is no live database or upload form.
 

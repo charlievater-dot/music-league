@@ -1,26 +1,39 @@
 import { Route, Routes } from 'react-router-dom'
+import { getRound } from './data.js'
+import './App.css'
 
-// Test data, to be replaced with real Music League results
-const songs = [
-  { title: 'Dreams', artist: 'Fleetwood Mac' },
-  { title: 'Hey Ya!', artist: 'Outkast' },
-  { title: 'Mr. Brightside', artist: 'The Killers' },
-  { title: 'Karma Police', artist: 'Radiohead' },
-  { title: 'Superstition', artist: 'Stevie Wonder' },
-]
+const round = getRound(7)
 
 function Home() {
   return (
-    <>
+    <main>
       <h1>Music League</h1>
-      <ul>
-        {songs.map((song) => (
-          <li key={song.title}>
-            {song.title} by {song.artist}
-          </li>
-        ))}
-      </ul>
-    </>
+      <h2>Round 7: {round.name}</h2>
+      <div className="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Song</th>
+              <th>Artist</th>
+              <th>Album</th>
+              <th>Submitter</th>
+              <th className="number">Votes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {round.songs.map((song) => (
+              <tr key={song.uri}>
+                <td>{song.title}</td>
+                <td>{song.artist}</td>
+                <td>{song.album}</td>
+                <td>{song.submitter}</td>
+                <td className="number">{song.votes}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </main>
   )
 }
 
