@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import { getRound } from './data.js'
 import './App.css'
 
-const round = getRound(7)
+const round = getRound(5, 7)
 const medals = { 1: 'gold', 2: 'silver', 3: 'bronze' }
 
 function Home() {
@@ -34,7 +34,7 @@ function Home() {
           </thead>
           <tbody>
             {round.songs.map((song) => (
-              <tr key={song.uri} className={medals[song.rank]}>
+              <tr key={song.trackId} className={medals[song.rank]}>
                 <td className="number">
                   <span className="rank">{song.rank}</span>
                 </td>

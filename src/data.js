@@ -1,45 +1,36 @@
-import Papa from 'papaparse'
-import competitorsCsv from '../data/5/competitors.csv?raw'
-import roundsCsv from '../data/5/rounds.csv?raw'
-import submissionsCsv from '../data/5/submissions.csv?raw'
-import votesCsv from '../data/5/votes.csv?raw'
+// Gives the site the tables made by parsed-data/parse.js.
+// Run `npm run parse` first if parsed-data/ is empty.
 
-const parse = (csv) => Papa.parse(csv, { header: true, skipEmptyLines: true }).data
+import people from '../parsed-data/people.json'
 
-const competitors = parse(competitorsCsv)
-const rounds = parse(roundsCsv)
-const submissions = parse(submissionsCsv)
-const votes = parse(votesCsv)
+// Keys look like "../parsed-data/5/7.json" (Round tables)
+// and "../parsed-data/5/7/<track-id>.json" (Song tables)
+const roundFiles = import.meta.glob('../parsed-data/*/*.json', { eager: true, import: 'default' })
+const songFiles = import.meta.glob('../parsed-data/*/*/*.json', { eager: true, import: 'default' })
 
-const names = new Map(competitors.map((c) => [c.ID, c.Name]))
+const rounds = Object.values(roundFiles).sort((a, b) => a.season - b.season || a.round - b.round)
 
-// roundNumber starts at 1 and follows the order of rounds.csv
-export function getRound(roundNumber) {
-  const round = rounds[roundNumber - 1]
+// Everyone who has played, highest total score first
+export function getPeople() {
+  return people
+}
 
-  const totals = new Map()
-  for (const vote of votes) {
-    if (vote['Round ID'] !== round.ID) continue
-    const uri = vote['Spotify URI']
-    totals.set(uri, (totals.get(uri) ?? 0) + Number(vote['Points Assigned']))
-  }
+// Season numbers, oldest first, e.g. [5]
+export function getSeasons() {
+  return [...new Set(rounds.map((r) => r.season))]
+}
 
-  const songs = submissions
-    .filter((s) => s['Round ID'] === round.ID)
-    .map((s) => ({
-      uri: s['Spotify URI'],
-      title: s.Title,
-      album: s.Album,
-      artist: s['Artist(s)'],
-      submitter: names.get(s['Submitter ID']) ?? 'Unknown',
-      votes: totals.get(s['Spotify URI']) ?? 0,
-    }))
-    .sort((a, b) => b.votes - a.votes)
+// All Round tables for a season, in order
+export function getRounds(season) {
+  return rounds.filter((r) => r.season === season)
+}
 
-  // Tied songs share a rank: 18, 17, 15, 15, 14 -> 1, 2, 3, 3, 5
-  songs.forEach((song, i) => {
-    song.rank = i > 0 && song.votes === songs[i - 1].votes ? songs[i - 1].rank : i + 1
-  })
+// One Round table, e.g. getRound(5, 7)
+export function getRound(season, round) {
+  return roundFiles[`../parsed-data/${season}/${round}.json`]
+}
 
-  return { name: round.Name.trim(), songs }
+// One Song table, e.g. getSong(5, 7, '0lhwqtb4BaFnC9ydl0VSKV')
+export function getSong(season, round, trackId) {
+  return songFiles[`../parsed-data/${season}/${round}/${trackId}.json`]
 }
