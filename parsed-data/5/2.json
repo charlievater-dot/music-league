@@ -1,0 +1,225 @@
+{
+  "season": 5,
+  "round": 2,
+  "name": "Tickle the Ivories",
+  "description": "Songs that feature pianos",
+  "playlist": "https://open.spotify.com/playlist/5ZCqd84Ylpk0zUtMtEVXBG",
+  "songs": [
+    {
+      "rank": 1,
+      "trackId": "2jkcROPESebwRrvoZZdnaN",
+      "title": "Such a Night (feat. Dr. John) - Concert Version",
+      "artist": "The Band, Dr. John",
+      "album": "The Last Waltz (Deluxe Version)",
+      "submitter": "Charlie Vater",
+      "votes": 25
+    },
+    {
+      "rank": 2,
+      "trackId": "4rOPzC3EoK0v3EDQW3V4oD",
+      "title": "One Angry Dwarf and 200 Solemn Faces",
+      "artist": "Ben Folds Five",
+      "album": "Whatever and Ever Amen",
+      "submitter": "Brett DeLine",
+      "votes": 22
+    },
+    {
+      "rank": 3,
+      "trackId": "2XzHou7MZzOBQBqjWw86Nt",
+      "title": "Love Me Or Leave Me",
+      "artist": "Nina Simone",
+      "album": "Let It All Out",
+      "submitter": "vsherw1",
+      "votes": 21
+    },
+    {
+      "rank": 4,
+      "trackId": "34OzAaQeAWlFnZBSyUAtRh",
+      "title": "Loving Cup",
+      "artist": "The Rolling Stones",
+      "album": "Exile On Main Street (Deluxe Version)",
+      "submitter": "AlreadySweady",
+      "votes": 19
+    },
+    {
+      "rank": 5,
+      "trackId": "4TOMI010Sd4ZAX4aZ5TS85",
+      "title": "Perfect Day",
+      "artist": "Lou Reed",
+      "album": "Transformer",
+      "submitter": "Joseph Wilson",
+      "votes": 17
+    },
+    {
+      "rank": 6,
+      "trackId": "5FFQbvn7055P1DvgJDdCBP",
+      "title": "My Moon My Man",
+      "artist": "Feist",
+      "album": "The Reminder",
+      "submitter": "Lucky Vichnes",
+      "votes": 15
+    },
+    {
+      "rank": 7,
+      "trackId": "0CVlP2QMGqr9kP527ay07S",
+      "title": "Apeman (2020 Stereo Remaster)",
+      "artist": "The Kinks",
+      "album": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+      "submitter": "Jive Turkey 815",
+      "votes": 14
+    },
+    {
+      "rank": 7,
+      "trackId": "0RDUnNaGubiseI1W9T3YTf",
+      "title": "I NEED YOU",
+      "artist": "Jon Batiste",
+      "album": "WE ARE",
+      "submitter": "Suzanne",
+      "votes": 14
+    },
+    {
+      "rank": 7,
+      "trackId": "79mka3R0No6Tc6sjFezhOu",
+      "title": "Take Me To The Pilot - Live At The Royal Festival Hall",
+      "artist": "Elton John",
+      "album": "Here And There",
+      "submitter": "Db",
+      "votes": 14
+    },
+    {
+      "rank": 10,
+      "trackId": "0tV8pOpiNsKqUys0ilUcXz",
+      "title": "Rise Up",
+      "artist": "Andra Day",
+      "album": "Cheers to the Fall",
+      "submitter": "Erica Vichnes",
+      "votes": 13
+    },
+    {
+      "rank": 10,
+      "trackId": "2JiDi0qAXsPwhPqA2qaKGt",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "album": "A Night At The Opera",
+      "submitter": "tug ‼️",
+      "votes": 13
+    },
+    {
+      "rank": 12,
+      "trackId": "5AMrnF761nziCWUfjBgRUI",
+      "title": "Waltz #2 (XO)",
+      "artist": "Elliott Smith",
+      "album": "XO",
+      "submitter": "Cindy Brolsma",
+      "votes": 12
+    },
+    {
+      "rank": 13,
+      "trackId": "2SmlWvdYG6FsagxN3FkHMI",
+      "title": "Bloody Well Right",
+      "artist": "Supertramp",
+      "album": "Crime Of The Century (Remastered)",
+      "submitter": "Amber",
+      "votes": 11
+    },
+    {
+      "rank": 14,
+      "trackId": "6Aojiz2DxRDW07Xib0MEBU",
+      "title": "Shuck It Up",
+      "artist": "Medeski, Martin & Wood",
+      "album": "It's A Jungle In Here",
+      "submitter": "Jon Gill",
+      "votes": 10
+    },
+    {
+      "rank": 15,
+      "trackId": "2YZcwDoPGEe9KUVoz4bx2U",
+      "title": "Your Feet's Too Big",
+      "artist": "Fats Waller",
+      "album": "At The Piano (Bluebird's Best Series)",
+      "submitter": "wallybrewer",
+      "votes": 9
+    },
+    {
+      "rank": 15,
+      "trackId": "5t2zRk2V4MiibvOfVEvycg",
+      "title": "Fingertips Pts. 1 & 2 - Live At The Regal Theater, Chicago/1962",
+      "artist": "Stevie Wonder",
+      "album": "The 12 Year Old Genius - Recorded Live",
+      "submitter": "Patrick C Lally",
+      "votes": 9
+    },
+    {
+      "rank": 15,
+      "trackId": "70C4NyhjD5OZUMzvWZ3njJ",
+      "title": "Piano Man",
+      "artist": "Billy Joel",
+      "album": "Piano Man (Legacy Edition)",
+      "submitter": "Nick McGlynn",
+      "votes": 9
+    },
+    {
+      "rank": 18,
+      "trackId": "0WZZJ0mDKIkLfL0710ssZt",
+      "title": "Neighborhood #1 (Tunnels)",
+      "artist": "Arcade Fire",
+      "album": "Funeral",
+      "submitter": "Doc",
+      "votes": 8
+    },
+    {
+      "rank": 18,
+      "trackId": "4LfCY65LvojKjWEnU7fNN4",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "submitter": "Hazel Chadwick",
+      "votes": 8
+    },
+    {
+      "rank": 18,
+      "trackId": "786h4kDeZiX5nYvOwA3wtE",
+      "title": "These Are Days",
+      "artist": "10,000 Maniacs",
+      "album": "Our Time in Eden",
+      "submitter": "Carol",
+      "votes": 8
+    },
+    {
+      "rank": 21,
+      "trackId": "6AOCmYjIuD10F5US5recGt",
+      "title": "Somebody Loves Me",
+      "artist": "Tony Bennett, Diana Krall",
+      "album": "Love Is Here To Stay",
+      "submitter": "Dan S",
+      "votes": 6
+    },
+    {
+      "rank": 22,
+      "trackId": "03ZfMFAWkDJpOkf64aFF1m",
+      "title": "Blowing Kisses",
+      "artist": "Jennifer Castle",
+      "album": "Blowing Kisses",
+      "submitter": "Vater",
+      "votes": 5
+    },
+    {
+      "rank": 23,
+      "trackId": "4UzVcXufOhGUwF56HT7b8M",
+      "title": "My Immortal",
+      "artist": "Evanescence",
+      "album": "Fallen",
+      "submitter": "JDubs",
+      "votes": 4
+    },
+    {
+      "rank": 24,
+      "trackId": "1exUq8aG2OMbSeZeTwz06k",
+      "title": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
+      "artist": "Iron Butterfly",
+      "album": "In-A-Gadda-Da-Vida",
+      "submitter": "Craig Butler",
+      "votes": 2
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "season": 5,
+  "round": 7,
+  "name": "Freeballin' III - Freeball Harder",
+  "description": "Play any song ya like",
+  "playlist": "https://open.spotify.com/playlist/52ulfUY3PqeATkoVtKDxOf",
+  "songs": [
+    {
+      "rank": 1,
+      "trackId": "2LiW3pPoLL6ZjPOClPVgPi",
+      "title": "Hot",
+      "artist": "La Felix, Relaye",
+      "album": "Hot",
+      "submitter": "Suzanne",
+      "votes": 18
+    },
+    {
+      "rank": 2,
+      "trackId": "113MeBcjVz94YqaY10e4lb",
+      "title": "Your Little Hoodrat Friend",
+      "artist": "The Hold Steady",
+      "album": "Separation Sunday",
+      "submitter": "Brett DeLine",
+      "votes": 17
+    },
+    {
+      "rank": 3,
+      "trackId": "1ncSAZD0bzvU3cu0uPLbWd",
+      "title": "Midnight in Harlem",
+      "artist": "Tedeschi Trucks Band",
+      "album": "Revelator",
+      "submitter": "Carol",
+      "votes": 16
+    },
+    {
+      "rank": 4,
+      "trackId": "0gEyKnHvgkrkBM6fbeHdwK",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "album": "Everybody Else Is Doing It, So Why Can't We?",
+      "submitter": "tug ‼️",
+      "votes": 15
+    },
+    {
+      "rank": 4,
+      "trackId": "2rOoHtWCDcMwG1kDcMd0kq",
+      "title": "Gabrielle",
+      "artist": "Ween",
+      "album": "Shinola, Vol. 1",
+      "submitter": "Charlie Vater",
+      "votes": 15
+    },
+    {
+      "rank": 6,
+      "trackId": "36Jk4Gov47YOevltFX97sD",
+      "title": "Late Night Morning Light",
+      "artist": "Har Mar Superstar",
+      "album": "Bye Bye 17",
+      "submitter": "Vater",
+      "votes": 14
+    },
+    {
+      "rank": 6,
+      "trackId": "5V9fNw0fO0jmdeee2m1qnf",
+      "title": "Number Nine",
+      "artist": "Richard Lloyd",
+      "album": "Alchemy",
+      "submitter": "Patrick C Lally",
+      "votes": 14
+    },
+    {
+      "rank": 6,
+      "trackId": "719WUtEfzXXsrSllLqfSOn",
+      "title": "Down in Mexico",
+      "artist": "The Coasters",
+      "album": "Searchin'",
+      "submitter": "Amber",
+      "votes": 14
+    },
+    {
+      "rank": 9,
+      "trackId": "6JxNj2lPGxNtcH1C0fdH85",
+      "title": "Insignificant Other",
+      "artist": "Queens of the Stone Age",
+      "album": "Perfecth",
+      "submitter": "Jon Gill",
+      "votes": 13
+    },
+    {
+      "rank": 10,
+      "trackId": "5lTtP7bCPxFbOdqoVja1WT",
+      "title": "Enough To Leave",
+      "artist": "Billy Strings",
+      "album": "Home",
+      "submitter": "Dan S",
+      "votes": 12
+    },
+    {
+      "rank": 10,
+      "trackId": "6MQrRYhg1dUdskRQSpTFYJ",
+      "title": "ペインテッド・パラダイス",
+      "artist": "稲垣次郎とソウル・メディア",
+      "album": "ファンキー・スタッフ",
+      "submitter": "Craig Butler",
+      "votes": 12
+    },
+    {
+      "rank": 12,
+      "trackId": "2sHVoRfaGkd8GIosinB64b",
+      "title": "Tangled up in Blue - Live at Hughes Stadium, Colorado State University, Fort Collins, CO - May 23, 1976",
+      "artist": "Bob Dylan",
+      "album": "The Rolling Thunder Revue 1976: Fort Collins Colorado, May 23rd",
+      "submitter": "wallybrewer",
+      "votes": 11
+    },
+    {
+      "rank": 12,
+      "trackId": "4QVdu4NSri0nezLXOGJsHF",
+      "title": "Small Town Talk",
+      "artist": "Bobby Charles",
+      "album": "Bobby Charles [w/ Bonus Tracks]",
+      "submitter": "vsherw1",
+      "votes": 11
+    },
+    {
+      "rank": 12,
+      "trackId": "77Jy02wGI2iU5HCcynsBmS",
+      "title": "Obsessica",
+      "artist": "Malcolm Todd",
+      "album": "Do That Again",
+      "submitter": "Hazel Chadwick",
+      "votes": 11
+    },
+    {
+      "rank": 15,
+      "trackId": "5QS9GYw1lZtIIlfnCqNvgX",
+      "title": "Nimble Girl",
+      "artist": "Hotel Eden",
+      "album": "Rewind",
+      "submitter": "AlreadySweady",
+      "votes": 10
+    },
+    {
+      "rank": 16,
+      "trackId": "0vAGNjNpJhjZTxvtcGeAib",
+      "title": "Broken Horses",
+      "artist": "Brandi Carlile",
+      "album": "In These Silent Days",
+      "submitter": "JDubs",
+      "votes": 9
+    },
+    {
+      "rank": 16,
+      "trackId": "0VjIjW4GlUZAMYd2vXMi3b",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "submitter": "Nick McGlynn",
+      "votes": 9
+    },
+    {
+      "rank": 16,
+      "trackId": "3LQVmsecK49xDf3Q77IxFh",
+      "title": "The Meader",
+      "artist": "Beak>",
+      "album": "L.A. Playback",
+      "submitter": "Jive Turkey 815",
+      "votes": 9
+    },
+    {
+      "rank": 19,
+      "trackId": "1mXPQliacoPWffGXKhouHN",
+      "title": "The Girl Is Crying In Her Latte",
+      "artist": "Sparks",
+      "album": "The Girl Is Crying In Her Latte",
+      "submitter": "Cindy Brolsma",
+      "votes": 8
+    },
+    {
+      "rank": 19,
+      "trackId": "5J6264keZ3ksbsHwef1U7G",
+      "title": "You'd Be So Nice To Come Home To",
+      "artist": "Helen Merrill, Clifford Brown",
+      "album": "Helen Merill",
+      "submitter": "Doc",
+      "votes": 8
+    },
+    {
+      "rank": 21,
+      "trackId": "6JnBljHLqBuGIhxvjkiSxO",
+      "title": "Something - Live",
+      "artist": "Paul McCartney, Eric Clapton",
+      "album": "Concert For George (Live)",
+      "submitter": "Db",
+      "votes": 6
+    }
+  ]
+}

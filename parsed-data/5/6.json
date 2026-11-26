@@ -1,0 +1,180 @@
+{
+  "season": 5,
+  "round": 6,
+  "name": "Spinning Yarns",
+  "description": "Play a song that tells a story",
+  "playlist": "https://open.spotify.com/playlist/0xMcBumSAXbcanZpp4lXfS",
+  "songs": [
+    {
+      "rank": 1,
+      "trackId": "6aLmvz0CPeCNHCXK2H5QIC",
+      "title": "Debra",
+      "artist": "Beck",
+      "album": "Midnite Vultures",
+      "submitter": "JDubs",
+      "votes": 21
+    },
+    {
+      "rank": 2,
+      "trackId": "1l2Xmg54EUr3TDzNIaCr1z",
+      "title": "Coat of Many Colors",
+      "artist": "Dolly Parton",
+      "album": "Coat Of Many Colors",
+      "submitter": "Amber",
+      "votes": 19
+    },
+    {
+      "rank": 3,
+      "trackId": "1eTaznNW4Xxtx9za2SMTXB",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "album": "Alligator Bites Never Heal",
+      "submitter": "Suzanne",
+      "votes": 17
+    },
+    {
+      "rank": 4,
+      "trackId": "7xKdGKe93MKH0aOAV6jHn2",
+      "title": "Buenas Tardes Amigo",
+      "artist": "Ween",
+      "album": "Chocolate and Cheese",
+      "submitter": "Vater",
+      "votes": 16
+    },
+    {
+      "rank": 5,
+      "trackId": "2LN8mDsvMvG7JU69vtpLhk",
+      "title": "Carolina Drama",
+      "artist": "The Raconteurs",
+      "album": "Consolers of the Lonely",
+      "submitter": "Jon Gill",
+      "votes": 15
+    },
+    {
+      "rank": 6,
+      "trackId": "0wva7TtE4QUkKtnMHP9BpT",
+      "title": "Spill the Wine",
+      "artist": "War",
+      "album": "Anthology 1970-1974",
+      "submitter": "Charlie Vater",
+      "votes": 13
+    },
+    {
+      "rank": 6,
+      "trackId": "2gUwnJ5cpl40TSlqmjfqAC",
+      "title": "I'm Writing a Novel",
+      "artist": "Father John Misty",
+      "album": "Fear Fun",
+      "submitter": "AlreadySweady",
+      "votes": 13
+    },
+    {
+      "rank": 6,
+      "trackId": "4dUKKNql0FZjn96jU6IjYB",
+      "title": "Tweeter And The Monkey Man",
+      "artist": "Traveling Wilburys",
+      "album": "The Traveling Wilburys, Vol. 1",
+      "submitter": "wallybrewer",
+      "votes": 13
+    },
+    {
+      "rank": 9,
+      "trackId": "2sZIclzhHlH8tzf7wry9hK",
+      "title": "Harper Valley P.T.A.",
+      "artist": "Jeannie C. Riley",
+      "album": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+      "submitter": "Nick McGlynn",
+      "votes": 12
+    },
+    {
+      "rank": 9,
+      "trackId": "5FMXrphygZ4z3gVDHGWxgl",
+      "title": "Copacabana (At the Copa) - Short Version",
+      "artist": "Barry Manilow",
+      "album": "Dance Vault Mixes - Copacabana (At The Copa)",
+      "submitter": "tug ‼️",
+      "votes": 12
+    },
+    {
+      "rank": 11,
+      "trackId": "1bsna3fBBE9dbUsHXxkVLZ",
+      "title": "Cold Feet",
+      "artist": "Tracy Chapman",
+      "album": "New Beginning",
+      "submitter": "Dan S",
+      "votes": 11
+    },
+    {
+      "rank": 12,
+      "trackId": "1ITQbrueGLl581a25XXm9c",
+      "title": "Rocky Raccoon - Remastered 2009",
+      "artist": "The Beatles",
+      "album": "The Beatles (Remastered 2009)",
+      "submitter": "vsherw1",
+      "votes": 10
+    },
+    {
+      "rank": 12,
+      "trackId": "3GDIZO71jiE1FEcHEJh3RH",
+      "title": "The Mariner's Revenge Song",
+      "artist": "The Decemberists",
+      "album": "Picaresque",
+      "submitter": "Doc",
+      "votes": 10
+    },
+    {
+      "rank": 14,
+      "trackId": "27DCji1iCCgtgcWWXnqV9U",
+      "title": "Atlantic City - Live at Madison Square Garden, New York, NY - June/July 2000",
+      "artist": "Bruce Springsteen",
+      "album": "Live in New York City",
+      "submitter": "Db",
+      "votes": 7
+    },
+    {
+      "rank": 14,
+      "trackId": "4NOyvrL2WFyVavjZCbNCqo",
+      "title": "Untouchable Face - bloomington, ill. - 2022 remaster",
+      "artist": "Ani DiFranco, Sara Lee, Andy Stochansky",
+      "album": "Living In Clip (25th Anniversary Edition)",
+      "submitter": "Carol",
+      "votes": 7
+    },
+    {
+      "rank": 14,
+      "trackId": "4TlE6betO4tqzEn0bREQfq",
+      "title": "(Joe Gets Kicked Out of School for Using) Drugs With Friends (But Says This Isn't a Problem)",
+      "artist": "Car Seat Headrest",
+      "album": "Teens Of Denial",
+      "submitter": "Brett DeLine",
+      "votes": 7
+    },
+    {
+      "rank": 17,
+      "trackId": "3UD6pyEQwqp2YcfSNvmsoT",
+      "title": "Operation Mindcrime - Remastered 2003",
+      "artist": "Queensrÿche",
+      "album": "Operation: Mindcrime (Deluxe Edition)",
+      "submitter": "Patrick C Lally",
+      "votes": 5
+    },
+    {
+      "rank": 18,
+      "trackId": "4XrTRoBxhalr3SSv4Pf7JQ",
+      "title": "A Tiny Broken Heart - The Original Album",
+      "artist": "The Louvin Brothers",
+      "album": "Tragic Songs of Life",
+      "submitter": "Cindy Brolsma",
+      "votes": 4
+    },
+    {
+      "rank": 18,
+      "trackId": "536L9C0N7vhYdibCJx3cI2",
+      "title": "The Wreck of the Edmund Fitzgerald",
+      "artist": "Gordon Lightfoot",
+      "album": "Summertime Dream",
+      "submitter": "Jive Turkey 815",
+      "votes": 4
+    }
+  ]
+}

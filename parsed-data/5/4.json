@@ -1,0 +1,216 @@
+{
+  "season": 5,
+  "round": 4,
+  "name": "Lost in Translation",
+  "description": "Play a song where 100% of the lyrics are in a language other than English",
+  "playlist": "https://open.spotify.com/playlist/5JH59xpLUudmAKSd5E5giz",
+  "songs": [
+    {
+      "rank": 1,
+      "trackId": "0lGEWOZvMexZFXckBJxlVO",
+      "title": "A Minha Menina",
+      "artist": "Os Mutantes",
+      "album": "\"Os Mutantes\"",
+      "submitter": "Cindy Brolsma",
+      "votes": 21
+    },
+    {
+      "rank": 2,
+      "trackId": "2g4oQ1siRRrg8yAkQLVx0c",
+      "title": "Le vent nous portera",
+      "artist": "Noir Désir",
+      "album": "Des visages des figures",
+      "submitter": "Carol",
+      "votes": 17
+    },
+    {
+      "rank": 3,
+      "trackId": "4GNBjMLPjb0YaHlRv7dBR2",
+      "title": "Kelen ati leen",
+      "artist": "Orchestra Baobab",
+      "album": "A Night At Club Baobab (Senegalese Dance Music of the 70's)",
+      "submitter": "Vater",
+      "votes": 15
+    },
+    {
+      "rank": 4,
+      "trackId": "0yhrmTRv74QipMUhaj88jN",
+      "title": "Canta el Agua",
+      "artist": "Captain Planet, De Mar Y Rio",
+      "album": "Canta el Agua",
+      "submitter": "Suzanne",
+      "votes": 14
+    },
+    {
+      "rank": 4,
+      "trackId": "2LxAeJ9KUj1GRS9oeHgQ3i",
+      "title": "Mundian To Bach Ke",
+      "artist": "Panjabi MC",
+      "album": "The Album",
+      "submitter": "JDubs",
+      "votes": 14
+    },
+    {
+      "rank": 4,
+      "trackId": "6lzDycd60SJ7H8y6wuESGl",
+      "title": "La rue",
+      "artist": "Cortex",
+      "album": "Troupeau bleu",
+      "submitter": "vsherw1",
+      "votes": 14
+    },
+    {
+      "rank": 4,
+      "trackId": "70QAZmaOxrSQGP2OMY5DUz",
+      "title": "Do Leme Ao Pontal",
+      "artist": "Tim Maia",
+      "album": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+      "submitter": "Charlie Vater",
+      "votes": 14
+    },
+    {
+      "rank": 8,
+      "trackId": "4sf4Lq52b2iCoAgpge7a9g",
+      "title": "Ca Plane Pour Moi",
+      "artist": "Plastic Bertrand",
+      "album": "Plastic Bertrand",
+      "submitter": "Doc",
+      "votes": 13
+    },
+    {
+      "rank": 9,
+      "trackId": "4c1xuDSu9JDGacUnqAj4fy",
+      "title": "Imidiwan Winakalin",
+      "artist": "Tinariwen",
+      "album": "Aman Iman: Water Is Life",
+      "submitter": "Jive Turkey 815",
+      "votes": 12
+    },
+    {
+      "rank": 9,
+      "trackId": "6b37xrsNCWYIUphFBazqD6",
+      "title": "Me Gustas Tu",
+      "artist": "Manu Chao",
+      "album": "Próxima Estación: Esperanza",
+      "submitter": "Joseph Wilson",
+      "votes": 12
+    },
+    {
+      "rank": 11,
+      "trackId": "12YqkkGa3lQ1yoQcLSHUHY",
+      "title": "Шлемофон",
+      "artist": "Vagonovozhatye",
+      "album": "Упасть с тандема",
+      "submitter": "Dan S",
+      "votes": 11
+    },
+    {
+      "rank": 11,
+      "trackId": "1PKqe7Ir5WZPp2jrjnPO3F",
+      "title": "Porushka-Poranya",
+      "artist": "Ариэль",
+      "album": "On the Buyan Island 1980",
+      "submitter": "wallybrewer",
+      "votes": 11
+    },
+    {
+      "rank": 13,
+      "trackId": "4sU2ItP5SLyyTzva9G9pHH",
+      "title": "Schyssta Logner",
+      "artist": "Witchcraft",
+      "album": "Witchcraft",
+      "submitter": "Craig Butler",
+      "votes": 10
+    },
+    {
+      "rank": 14,
+      "trackId": "34cT8Qvq2IYoqCQ3dlNvrW",
+      "title": "Mangez-moi ! Mangez-moi ! - Ragga Mix",
+      "artist": "Billy Ze Kick et Les Gamins En Folie",
+      "album": "Billy Ze Kick Et Les Gamins En Folie",
+      "submitter": "AlreadySweady",
+      "votes": 9
+    },
+    {
+      "rank": 15,
+      "trackId": "6E4ZPXz34YTAObmBrqquGo",
+      "title": "Prisencolinensinainciusol",
+      "artist": "Adriano Celentano",
+      "album": "Celentano Hit Parade (Le Volte Che Adriano È Stato Primo)",
+      "submitter": "Brett DeLine",
+      "votes": 8
+    },
+    {
+      "rank": 16,
+      "trackId": "26QcnuQdPrr5uLc8I4PxKL",
+      "title": "Vokuro",
+      "artist": "Björk",
+      "album": "Medulla",
+      "submitter": "Jon Gill",
+      "votes": 7
+    },
+    {
+      "rank": 16,
+      "trackId": "2F1Pqkb1eOltUBLgAB1NFa",
+      "title": "Un ange dans le ciel - Live à Paris-Bercy 2008",
+      "artist": "Suprême NTM",
+      "album": "On est encore là - Bercy 2008 (Live)",
+      "submitter": "Amber",
+      "votes": 7
+    },
+    {
+      "rank": 16,
+      "trackId": "4mavPLLZuKFd86esmhhqqy",
+      "title": "Exploration",
+      "artist": "Bruno Coulais, Mathilde Pellegrini, Laurent Petitgirard, Hungrarian Symphony Orchestra Budapest, Hélène Breschand",
+      "album": "Coraline (Original Motion Picture Soundtrack)",
+      "submitter": "tug ‼️",
+      "votes": 7
+    },
+    {
+      "rank": 19,
+      "trackId": "2cjiRQZu9V17rJZkvMuT1J",
+      "title": "Amor Prohibido",
+      "artist": "Selena",
+      "album": "Amor Prohibido",
+      "submitter": "Hazel Chadwick",
+      "votes": 6
+    },
+    {
+      "rank": 19,
+      "trackId": "348NF6vX0Yh22xvH0EZEro",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "album": "NIGHT DANCER",
+      "submitter": "Lucky Vichnes",
+      "votes": 6
+    },
+    {
+      "rank": 19,
+      "trackId": "478do7vDhmjKJCL22pe6dI",
+      "title": "Primavera",
+      "artist": "Santana",
+      "album": "Supernatural (Remastered)",
+      "submitter": "Db",
+      "votes": 6
+    },
+    {
+      "rank": 22,
+      "trackId": "6uEvFCaOqXyEidoO8BZbyh",
+      "title": "Du hast",
+      "artist": "Rammstein",
+      "album": "Sehnsucht",
+      "submitter": "Nick McGlynn",
+      "votes": 5
+    },
+    {
+      "rank": 23,
+      "trackId": "7qvnwfrklCpXozI4ZDU3qc",
+      "title": "Tatuaje",
+      "artist": "Elvis Crespo, Bachata Heightz",
+      "album": "Tatuaje",
+      "submitter": "Patrick C Lally",
+      "votes": 1
+    }
+  ]
+}

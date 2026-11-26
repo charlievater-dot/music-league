@@ -1,0 +1,207 @@
+{
+  "season": 5,
+  "round": 5,
+  "name": "Demon Sweat",
+  "description": "Summon your best songs that involve the supernatural. Ghosts, monsters, vampires, zombies...whatever. Let's make a cool playlist for Halloween.",
+  "playlist": "https://open.spotify.com/playlist/3IernxlOofgZRSjYR0yftg",
+  "songs": [
+    {
+      "rank": 1,
+      "trackId": "6ewN9MaFbi78oDLT9wYDgn",
+      "title": "Ghost Town",
+      "artist": "The Specials",
+      "album": "Stereo-Typical: A's, B's & Rarities",
+      "submitter": "Amber",
+      "votes": 17
+    },
+    {
+      "rank": 2,
+      "trackId": "709ZIqPHyFOpx2QdjmeWAM",
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "album": "Dracula",
+      "submitter": "Carol",
+      "votes": 14
+    },
+    {
+      "rank": 3,
+      "trackId": "0zMzE70TKDzxdsuuWHsIow",
+      "title": "I'm Wicked",
+      "artist": "Twin Temple",
+      "album": "Twin Temple (Bring You Their Signature Sound.... Satanic Doo-Wop)",
+      "submitter": "Dan S",
+      "votes": 13
+    },
+    {
+      "rank": 4,
+      "trackId": "0gVVgbDX3m7WhaQd8cpZqn",
+      "title": "Time Warp",
+      "artist": "Little Nell, Patricia Quinn, Richard O'Brien, The Rocky Horror Picture Show",
+      "album": "The Rocky Horror Picture Show - Original Soundtrack (Soundtrack from the Motion Picture)",
+      "submitter": "JDubs",
+      "votes": 12
+    },
+    {
+      "rank": 4,
+      "trackId": "6MOEQCtAWNSCmvg3SFKF5y",
+      "title": "Season of the Witch",
+      "artist": "Donovan",
+      "album": "Sunshine Superman",
+      "submitter": "vsherw1",
+      "votes": 12
+    },
+    {
+      "rank": 6,
+      "trackId": "1683Q5FUEQ4fIG2f87MAW4",
+      "title": "Spooky",
+      "artist": "Dusty Springfield",
+      "album": "Music From The Motion Picture Lock, Stock And Two Smoking Barrels",
+      "submitter": "AlreadySweady",
+      "votes": 11
+    },
+    {
+      "rank": 6,
+      "trackId": "4tYuvRB7Q5MVA8Xtb9Sf36",
+      "title": "Spider Baby",
+      "artist": "Fantomas",
+      "album": "The Director's Cut",
+      "submitter": "Jon Gill",
+      "votes": 11
+    },
+    {
+      "rank": 6,
+      "trackId": "5qEyIuNnj9ivIFBpLsPwcL",
+      "title": "Diary of a Madman",
+      "artist": "Gravediggaz",
+      "album": "6 Feet Deep",
+      "submitter": "wallybrewer",
+      "votes": 11
+    },
+    {
+      "rank": 6,
+      "trackId": "6pvwYMVs13EJ8jj4LMX0aV",
+      "title": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+      "artist": "Sufjan Stevens",
+      "album": "Illinois",
+      "submitter": "Doc",
+      "votes": 11
+    },
+    {
+      "rank": 6,
+      "trackId": "7xKgmmftAaFs2xxoKVHZKl",
+      "title": "Dracula Drug",
+      "artist": "Frankie and the Witch Fingers",
+      "album": "ZAM",
+      "submitter": "Vater",
+      "votes": 11
+    },
+    {
+      "rank": 11,
+      "trackId": "0y1rTPYx9e1fFlP3W9KvpW",
+      "title": "Suspiria",
+      "artist": "Goblin",
+      "album": "Suspiria (40th Anniversary) [Original Motion Picture Soundtrack]",
+      "submitter": "Jive Turkey 815",
+      "votes": 10
+    },
+    {
+      "rank": 12,
+      "trackId": "6kotXaSQaGYxE62hVpdHWu",
+      "title": "Werewolves of London",
+      "artist": "Warren Zevon",
+      "album": "Excitable Boy",
+      "submitter": "Nick McGlynn",
+      "votes": 9
+    },
+    {
+      "rank": 12,
+      "trackId": "6sIwrohlS0i1HoEOVBmQTM",
+      "title": "The Monster Mash",
+      "artist": "Vincent Price",
+      "album": "The Monster Mash",
+      "submitter": "Erica Vichnes",
+      "votes": 9
+    },
+    {
+      "rank": 12,
+      "trackId": "6yFIzIxyTVRfVeSTTvtEBt",
+      "title": "Marie Laveau",
+      "artist": "Bobby Bare",
+      "album": "Bobby Bare Sings Lullabys, Legends And Lies (And More)",
+      "submitter": "Suzanne",
+      "votes": 9
+    },
+    {
+      "rank": 12,
+      "trackId": "7ap5NaoYRB6TJdrhX5Fej8",
+      "title": "Hybrid Moments - C.I. Recording 1978",
+      "artist": "Misfits",
+      "album": "The Misfits Box Set",
+      "submitter": "tug ‼️",
+      "votes": 9
+    },
+    {
+      "rank": 16,
+      "trackId": "1WQkyZzJIKgYb0gTIgd8G7",
+      "title": "I'm a Mummy",
+      "artist": "The Fall",
+      "album": "Levitate",
+      "submitter": "Cindy Brolsma",
+      "votes": 8
+    },
+    {
+      "rank": 16,
+      "trackId": "5XemvyG79fcKPl5lgbhplq",
+      "title": "W.I.T.C.H.",
+      "artist": "Devon Cole",
+      "album": "W.I.T.C.H.",
+      "submitter": "Hazel Chadwick",
+      "votes": 8
+    },
+    {
+      "rank": 16,
+      "trackId": "6QICJMOOWOvjYcHTRT18S4",
+      "title": "Two Headed Dog (Red Temple Player)",
+      "artist": "Roky Erickson",
+      "album": "The Evil One",
+      "submitter": "Joseph Wilson",
+      "votes": 8
+    },
+    {
+      "rank": 16,
+      "trackId": "7JSIPdukJ1MCWWa2sOBuWi",
+      "title": "Devil in a Sleepin' Bag",
+      "artist": "Willie Nelson",
+      "album": "Shotgun Willie",
+      "submitter": "Charlie Vater",
+      "votes": 8
+    },
+    {
+      "rank": 20,
+      "trackId": "05oETzWbd4SI33qK2gbJfR",
+      "title": "Rhiannon",
+      "artist": "Fleetwood Mac",
+      "album": "Fleetwood Mac",
+      "submitter": "Db",
+      "votes": 7
+    },
+    {
+      "rank": 21,
+      "trackId": "6Wyi0TWZOBxZNstaWcF7Ia",
+      "title": "Martian Monster - Live",
+      "artist": "Phish",
+      "album": "Phish: Live In Saratoga Springs 2025",
+      "submitter": "Patrick C Lally",
+      "votes": 5
+    },
+    {
+      "rank": 22,
+      "trackId": "1uRcHujbzxEUQDQ7i9MD3a",
+      "title": "Evil (2005 Remaster by Ted Jensen)",
+      "artist": "Mercyful Fate",
+      "album": "Melissa (2005 Remaster by Ted Jensen)",
+      "submitter": "Craig Butler",
+      "votes": 3
+    }
+  ]
+}

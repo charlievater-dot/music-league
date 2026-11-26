@@ -1,0 +1,58 @@
+{
+  "season": 5,
+  "round": 5,
+  "trackId": "6sIwrohlS0i1HoEOVBmQTM",
+  "title": "The Monster Mash",
+  "artist": "Vincent Price",
+  "album": "The Monster Mash",
+  "submitter": "Erica Vichnes",
+  "votes": 9,
+  "rank": 12,
+  "voters": [
+    {
+      "voter": "Nick McGlynn",
+      "votes": 2,
+      "comment": ""
+    },
+    {
+      "voter": "Joseph Wilson",
+      "votes": 2,
+      "comment": ""
+    },
+    {
+      "voter": "vsherw1",
+      "votes": 1,
+      "comment": ""
+    },
+    {
+      "voter": "JDubs",
+      "votes": 1,
+      "comment": ""
+    },
+    {
+      "voter": "Jon Gill",
+      "votes": 1,
+      "comment": ""
+    },
+    {
+      "voter": "Amber",
+      "votes": 1,
+      "comment": "This song will forever be associated with Cindy's Halloween stoop."
+    },
+    {
+      "voter": "Hazel Chadwick",
+      "votes": 1,
+      "comment": ""
+    },
+    {
+      "voter": "Vater",
+      "votes": 0,
+      "comment": "This round's \"Piano Man\""
+    },
+    {
+      "voter": "Charlie Vater",
+      "votes": 0,
+      "comment": "Bro"
+    }
+  ]
+}
