@@ -22,9 +22,12 @@ Data is updated manually per round — there is no live database or upload form.
 
 ## Stack
 
-- Frontend: React
-- Built as a static export (`npm run build`) — no server required at runtime
-- Hosting: free static host (e.g. GitHub Pages or Netlify), TBD
+- Frontend: React, built with Vite
+- Routing: React Router with `HashRouter`, so deep links and refreshes work on
+  GitHub Pages
+- Filter and search state kept in the URL, so filtered views can be shared
+- Built as a static site (`npm run build`) — no server required at runtime
+- Hosting: GitHub Pages
 
 ## Status
 
